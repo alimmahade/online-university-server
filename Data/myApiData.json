@@ -2,44 +2,38 @@
 [
     {
       "id": "1",
-      "balance": "$3,758.23",
       "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png",
-      "details": "Learn Basic To Advanced HTML in 3 Month",
+      "details": "Learn Basic To Advanced HTML in 3 Month. This course will cover everything you need to become a professional web developer from scratch, without any prior experience.",
       "name": "HTML"
     },
     {
       "id": "2",
-      "balance": "$2,669.07",
       "picture": "https://cdn-icons-png.flaticon.com/512/919/919826.png",
-      "details": "Learn Basic To Advanced CSS in 3 Month",
+      "details": "Learn Basic To Advanced CSS in 3 Month. This course will cover everything you need to become a professional web developer from scratch, without any prior experience.",
       "name": "CSS"
     },
     {
       "id": "3",
-      "balance": "$2,253.77",
       "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png",
-      "details": "Learn Basic To Advanced Bootstarp in 3 Month",
+      "details": "Learn Basic To Advanced Bootstarp in 3 Month. This course will cover everything you need to become a professional web developer from scratch, without any prior experience.",
       "name": "Bootstrap"
     },
     {
       "id": "4",
-      "balance": "$1,756.48",
       "picture": "https://www.computerhope.com/jargon/j/javascript.png",
-      "details": "Learn Basic To Advanced JavaScript in 6 Month",
+      "details": "Learn Basic To Advanced JavaScript in 6 Month. This course will cover everything you need to become a professional web developer from scratch, without any prior experience.",
       "name": "Java Script"
     },
     {
       "id": "5",
-      "balance": "$3,254.88",
       "picture": "https://res.cloudinary.com/practicaldev/image/fetch/s--ljmYNm3i--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://www.freecodecamp.org/news/content/images/size/w2000/2020/02/Ekran-Resmi-2019-11-18-18.08.13.png",
-      "details": "Learn Basic To Advanced React in 6 Month",
+      "details": "Learn Basic To Advanced React in 6 Month. This course will cover everything you need to become a professional web developer from scratch, without any prior experience.",
       "name": "React"
     },
     {
       "id": "6",
-      "balance": "$2,037.99",
       "picture": "https://res.cloudinary.com/practicaldev/image/fetch/s--KkScstnJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zojuy79lo3fn3qdt7g6p.png",
-      "details": "Learn Basic To Advanced Express JS in 3 Month",
+      "details": "Learn Basic To Advanced Express JS in 3 Month. This course will cover everything you need to become a professional web developer from scratch, without any prior experience.",
       "name": "Express JS"
     }
   ]
